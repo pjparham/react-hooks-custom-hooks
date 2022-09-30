@@ -5,7 +5,7 @@ import { makeEmojiList } from "../utils";
 function ArticlePreview({
   id,
   title,
-  date = "January 1, 1970",
+  date = "December 1, 2020",
   preview,
   minutes,
 }) {
